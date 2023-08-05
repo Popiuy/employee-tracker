@@ -7,4 +7,4 @@ Built from scratch, this CLI app uses mysql database to store tables of values. 
 [github](https://github.com/Popiuy/employee-tracker)
 
 ## link
-[]()
+[https://drive.google.com/file/d/1ZLVdcNjgv0f8KPEkaMUB3eAcjo6QL7gq/view](https://drive.google.com/file/d/1ZLVdcNjgv0f8KPEkaMUB3eAcjo6QL7gq/view)
